@@ -1,4 +1,4 @@
-// Very simple utility that can generate password for you for any case of life
+// GenP
 import java.util.Random;
 import java.util.Scanner;
 
